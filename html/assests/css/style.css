@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-    background: #019267;
+    background: #03045e;
     height: auto;
     margin-bottom: 50px;
     overflow: hidden;
@@ -18,7 +18,13 @@ body {
 .header .logo {
     font-size: 32px;
     float: left;
+    color: #fdeff4;
 }
+
+.header .logo span {
+    color: #86c6f4;
+}
+
 .header .navigation {
     float: right;
     margin-top: 40px;
@@ -30,6 +36,10 @@ body {
     display: block;
 }
 .header .navigation li a {
-    color: #ffd365;
+    color: #caf0f8;
     text-decoration: none;
+}
+.header .navigation li a:hover {
+    color: #ffc0d3;
+    text-decoration: underline;
 }
