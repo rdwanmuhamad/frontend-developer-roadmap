@@ -50,3 +50,14 @@ body {
     color: #ffc0d3;
     text-decoration: underline;
 }
+
+.parent {
+    margin: 100px;
+}
+
+.icon-class {
+    background-color: #533e85;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
