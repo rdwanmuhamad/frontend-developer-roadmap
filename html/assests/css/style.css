@@ -1,14 +1,26 @@
 body {
     margin: 0;
 }
+.container {
+    width: 80%;
+    overflow: hidden;
+}
 
 .header {
     background: #019267;
-    height: 70px;
+    height: auto;
     margin-bottom: 50px;
     overflow: hidden;
     padding-left: 50px;
     width: 100%;
+}
+
+.header .logo {
+    font-size: 32px;
+    float: left;
+}
+.header .navigation {
+    float: right;
 }
 .header a {
     color: #ffd365;
