@@ -2,7 +2,7 @@ Become to Frontend Developer
 
 Day 01 - 07
 - HTML (done)
-- CSS  
+- CSS  (done)
 - Javascript
 - ES6 Basic
 

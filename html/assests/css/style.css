@@ -14,7 +14,7 @@ body {
 
 .header {
     background: #03045e;
-    height: auto;
+    height: 550px;
     margin-bottom: 50px;
     overflow: hidden;
     padding-left: 50px;
@@ -54,7 +54,7 @@ body {
 .parent {
     margin: 100px;
 }
-
+/* 
 .icon-class {
     background-color: #533e85;
     background-image: url("/html/assests/img/team-5.jpg");
@@ -62,4 +62,4 @@ body {
     border-radius: 50%;
     height: 300px;
     width: 300px;
-}
+} */
