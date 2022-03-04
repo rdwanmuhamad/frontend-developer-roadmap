@@ -1,3 +1,8 @@
+@font-face {
+    font-family: leagueGothic;
+    src: url("/html/assests/fonts/League_Gothic/LeagueGothic-Regular-VariableFont_wdth.ttf");
+}
+
 body {
     margin: 0;
 }
@@ -16,6 +21,7 @@ body {
 }
 
 .header .logo {
+    font-family: "leagueGothic";
     font-size: 32px;
     float: left;
     color: #fdeff4;
