@@ -1,3 +1,13 @@
+.header {
+    background: #019267;
+    height: 70px;
+    overflow: hidden;
+    width: 100%;
+}
+.header a {
+    color: #ffd365;
+    text-decoration: none;
+}
 .features {
     background: red;
 }
