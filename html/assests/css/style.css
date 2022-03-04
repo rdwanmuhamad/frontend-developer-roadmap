@@ -57,6 +57,8 @@ body {
 
 .icon-class {
     background-color: #533e85;
+    background-image: url("/html/assests/img/team-5.jpg");
+    background-size: cover;
     border-radius: 50%;
     height: 300px;
     width: 300px;
